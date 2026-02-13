@@ -4,8 +4,6 @@
 
 <p>This project evaluates security culture challenges related to employees using personal devices in the workplace. It provides a comprehensive assessment framework with actionable recommendations to improve security practices, while balancing organizational needs with practical solutions.</p>
 
-<br />
-
 <details open>
   <summary style="overflow: hidden; cursor: pointer;">
     <h2 style="display: inline; float: right; width: calc(100% - 20px); margin: 0; position: relative; top: -0.085em;" id="table-of-contents">Table of Contents</h2>

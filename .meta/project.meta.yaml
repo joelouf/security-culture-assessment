@@ -1,0 +1,15 @@
+name: Security Culture Assessment
+fields: 
+  - cybersecurity
+tags:
+  - cybersecurity
+  - risk-assessment
+  - governance
+  - security-awareness
+  - byod
+  - security-policy
+  - security-assessment
+  - security-culture
+description: Security culture assessment evaluating personal device risks in the workplace, with actionable frameworks for policy, training, and stakeholder engagement.
+status: completed
+github: https://github.com/joelouf/security-culture-assessment

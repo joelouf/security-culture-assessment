@@ -1,31 +1,37 @@
-<p id="top">
+<section id="title">
   <img src="docs/assets/images/security_culture_assessment_banner.svg" alt="Security Culture Assessment Banner" width="100%">
-</p>
+</section>
 
-<p>This project evaluates security culture challenges related to employees using personal devices in the workplace. It provides a comprehensive assessment framework with actionable recommendations to improve security practices, while balancing organizational needs with practical solutions.</p>
+<br />
+
+<section id="description">
+  <p>
+    This project evaluates security culture challenges related to employees using personal devices in the workplace. It provides a comprehensive assessment framework with actionable recommendations to improve security practices, while balancing organizational needs with practical solutions.
+  </p>
+</section>
+
+<br />
 
 <details open>
   <summary style="overflow: hidden; cursor: pointer;">
-    <h2 style="display: inline; float: right; width: calc(100% - 25px); margin: 0; position: relative; top: -0.085em;" id="table-of-contents">Table of Contents</h2>
+    <h2 style="display: inline;">&ensp;Table of Contents</h2>
   </summary>
 
-  <nav style="clear: both; margin-top: 1rem">
-    <ol type="I">
+  <nav style="margin-top: 0.6rem">
+    <ul>
       <li><a href="#overview">Overview</a></li>
       <li><a href="#purpose--scope">Purpose & Scope</a></li>
-      <li><a href="#structure">Structure</a></li>
+      <li><a href="#repository-structure">Repository Structure</a></li>
       <li><a href="#approach">Approach</a>
-        <ol type="A">
+        <ul>
           <li><a href="#methodology">Methodology</a></li>
-        </ol>
+        </ul>
       </li>
       <li><a href="#license">License</a></li>
       <li><a href="#contact">Contact</a></li>
-    </ol>
+    </ul>
   </nav>
 </details>
-
-<br />
 
 <h2 id="overview">Overview</h2>
 
@@ -35,7 +41,7 @@ The increasing trend of employees using personal devices for work-related activi
 
 Organizations face significant security risks when employees access sensitive information on personal devices, including data breaches, unauthorized access, and malware infiltration. This assessment targets these concerns through a comprehensive evaluation approach.
 
-<h2 id="structure">Structure</h2>
+<h2 id="repository-structure">Repository Structure</h2>
 
 ```
 security-culture-assessment/
@@ -57,6 +63,7 @@ security-culture-assessment/
 <h2 id="approach">Approach</h2>
 
 <p>This assessment uses a structured framework to evaluate risks and develop mitigation strategies:</p>
+s
 <ol>
   <li>Risk identification and objective planning</li>
   <li>Stakeholder engagement analysis</li>
@@ -88,5 +95,6 @@ security-culture-assessment/
 </address>
 
 <br />
+<hr />
 
-<p align="right"><a href="#top">Back to top ↑</a></p>
+<p align="right"><a href="#title">Back to top ↑</a></p>
